@@ -1,9 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T01:28:21.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.8" etag="LqUAfn8kgCltIjVrGIPO" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T01:32:17.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="-OUE2_bKg4UUMpTgovVZ" version="22.0.8" type="github">
   <diagram name="Page-1" id="Zdbf7-APJhZdO4r37r7h">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0RnxFxgpyQ0X2M8fG6dJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0RnxFxgpyQ0X2M8fG6dJ-1" target="0RnxFxgpyQ0X2M8fG6dJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0RnxFxgpyQ0X2M8fG6dJ-1" value="mulai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0RnxFxgpyQ0X2M8fG6dJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0RnxFxgpyQ0X2M8fG6dJ-3" target="0RnxFxgpyQ0X2M8fG6dJ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0RnxFxgpyQ0X2M8fG6dJ-3" value="input alas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0RnxFxgpyQ0X2M8fG6dJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0RnxFxgpyQ0X2M8fG6dJ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0RnxFxgpyQ0X2M8fG6dJ-5" value="input tinggi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0RnxFxgpyQ0X2M8fG6dJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0RnxFxgpyQ0X2M8fG6dJ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0RnxFxgpyQ0X2M8fG6dJ-6" value="luas&amp;lt;-(alas*timggi)/2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0RnxFxgpyQ0X2M8fG6dJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0RnxFxgpyQ0X2M8fG6dJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0RnxFxgpyQ0X2M8fG6dJ-8" value="tampilkan luas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0RnxFxgpyQ0X2M8fG6dJ-10" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=42;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
